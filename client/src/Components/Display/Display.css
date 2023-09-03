@@ -1,0 +1,32 @@
+.liCtrl{
+    background-color: #34495e;
+    font-size: 17px ;
+    padding: 8px 15px ;
+    list-style: none ;
+    border-radius: 5px;
+    color: #FFFFFF ;
+    margin: 6px 0px ;
+    cursor: pointer ;
+}
+
+.icon-ctrl{
+    float: right;
+    margin: 1px 7px ;
+    font-size: 17px ;
+    /* padding: 8px 15px ; */
+}
+
+article{
+    display: grid ;
+}
+
+.edit-input-ctrl{
+    width: 84%;
+    font-size: 15px;
+    color: #FFFFFF;
+    background-color: transparent;
+    border: none;
+    outline: none ;
+    border-bottom: 2px solid #FFFFFF;
+    padding: 4px 10px ;
+}
